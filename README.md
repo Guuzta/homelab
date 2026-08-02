@@ -28,7 +28,7 @@ Este repositório documenta a construção do meu homelab utilizando um notebook
 
 - ✅ Instalar Ubuntu Server
 - ✅ Configurar IP estático
-- [ ] Configurar SSH
+- ✅ Configurar SSH
 - [ ] Criar usuário administrativo
 - [ ] Configurar Firewall
 - [ ] Atualizações automáticas

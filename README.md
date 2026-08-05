@@ -34,7 +34,7 @@ Este repositório documenta a construção do meu homelab utilizando um notebook
 
 ### Fase 2 — Serviços
 
-- [ ] Docker
+- ✅ Docker
 - [ ] Docker Compose
 - [ ] Monitoramento
 - [ ] Backup

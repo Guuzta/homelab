@@ -35,8 +35,8 @@ Este repositório documenta a construção do meu homelab utilizando um notebook
 ### Fase 2 — Serviços
 
 - ✅ Docker
-- [ ] Docker Compose
-- [ ] Monitoramento
+- ✅ Docker Compose
+- ✅ Configurar Nginx como Proxy Reverso
 - [ ] Backup
 
 ### Fase 3 — Projetos
